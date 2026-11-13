@@ -5,7 +5,7 @@ export const img = (n) => `${B}images/${n}`
 
 export const company = {
   name: 'Lion Apex Technical Services LLC',
-  email: 'Lionapextechnicalservicesllc@gmail.com',
+  email: 'customercare@lionapexts.com',
   phone: '+971 558942860',
   wa: '971558942860',
   location: 'Al Furjan, Dubai – United Arab Emirates',
